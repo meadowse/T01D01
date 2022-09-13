@@ -1,0 +1,7 @@
+1. cd door_managment_files/door_configuration
+2. vim door_1.conf
+3. i
+4. далее удалить CLOSED и написать OPEN
+5. нажать клавишу ESC
+6. :wq
+7. нажать клавишу ENTER
